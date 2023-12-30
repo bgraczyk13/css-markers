@@ -1,2 +1,2 @@
 # css-markers
-Built using a tutorial on freeCodeCamp to sharpen up on my HTML/CSS skills. These projects are beginner friendly, but I am continuing to learn as I search for a job as a Web Developer.
+Built using a tutorial on freeCodeCamp to sharpen up on my HTML/CSS skills. These projects are beginner friendly, but I am continuing to learn and revisit previous topics to sharpen my skills as I search for a job as a Web Developer. I have previous experience as a student at DevMountain and Thinkful, and I am able to learn at a fast pace and adapt to the ongoing changes in the industry.
